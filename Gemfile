@@ -10,6 +10,7 @@ gem 'sass-rails',   '~> 4.0.0'
 gem 'actionpack-page_caching'
 gem "activemerchant", '~> 1.29.3'#, :lib => 'active_merchant'
 gem "american_date"
+gem 'jwt'
 
 # Use https if you are pushing to HEROKU
 ##  NOTE: run the test before upgrading to the tagged version. It has had several deprecation warnings.
